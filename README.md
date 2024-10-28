@@ -1,6 +1,41 @@
-# 2022 고급모바일프로그래밍 - SNS Project
+## 한스타그램
+> 안드로이드 SNS앱만들기 프로젝트
+> 프로젝트 기간 2022.11.08 ~ 2022.11.28
+> 개발 인원 : 3명
 
-## :bust_in_silhouette:팀원
-| <a href="https://github.com/rloJo"><img src="https://avatars.githubusercontent.com/u/114863642?v=4" width="90" height="90"></a> | <a href="https://github.com/SeoJeongHui"><img src="https://avatars.githubusercontent.com/u/92327500?v=4" width="90" height="90"></a> | <a href="https://github.com/wonchanjoo"><img src="https://avatars.githubusercontent.com/u/92321183?v=4" width="90" height="90"></a> |
-| ----- | ----- | ----- |
-| [1871199 이은우](https://github.com/rloJo) | [2071460 서정희](https://github.com/SeoJeongHui) | [2071154 원찬주](https://github.com/wonchanjoo) | 
+### Description
+---
+한스타그램은 인스타그램을 클론코딩한 프로젝트입니다.  
+Firebase를 이용해 사용자의 계정정보 및 피드, 친구관계를 저장 합니다.  
+스마트폰 뿐만아니라 워치에서도 호환이 되게 만들었습니다.  
+
+### 기술 스택
+---
+<table>
+    <tr>
+        <td style="text-align: center"> OS </td>
+        <td>   
+            <img src="https://img.shields.io/badge/Android-FCC624?style=for-the-badge&logo=Android&logoColor=black" alt = "Android"> 
+        </td>
+    </tr>
+    <tr>
+         <td style="text-align: center"> Tool </td> 
+         <td>  
+             <img src="https://img.shields.io/badge/androidstudio-339AF0?style=for-the-badge&logo=androidstudio&logoColor=white" alt = "Android Studio">
+            <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git">
+            <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white alt ="Github">
+         </td>
+    </tr>
+    <tr>
+        <td style="text-align: center"> Language </td>
+        <td>   
+            <img src="https://img.shields.io/badge/kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white"alt = "Kotlin"> 
+        </td>
+    </tr>
+    <tr>
+         <td style="text-align: center"> DBMS </td> 
+         <td> 
+             <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt = "Firebase"> 
+         </td>
+    </tr>
+</table>

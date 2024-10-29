@@ -46,8 +46,8 @@ Firebase를 이용해 사용자의 계정정보 및 피드, 친구관계를 저�
 <table>
     <tbody>
     	<tr>
-        	<th style="text-align: center"><img src="https://github.com/rloJo/BusMonitoringSystem/blob/main/AssetReadMe/BMS1.PNG" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
-            <th style="text-align: center"><img src="https://github.com/rloJo/BusMonitoringSystem/blob/main/AssetReadMe/BMS.PNG"  style="zoom:80%;" alert = "프로젝트 이미지" /></th>
+        	<th style="text-align: center"><img src="https://github.com/rloJo/Android_SNS_Project/blob/master/ReadMeAsset/SNS.png" width ="200" height ="350" alert = "프로젝트 이미지" /></th>
+            <th style="text-align: center"><img src="https://github.com/rloJo/Android_SNS_Project/blob/master/ReadMeAsset/SNS2.png"  width ="200" height ="350" alert = "프로젝트 이미지" /></th>
         </tr>
       	<tr>
     </tbody>
@@ -56,3 +56,7 @@ Firebase를 이용해 사용자의 계정정보 및 피드, 친구관계를 저�
 
 ## 역할
 ---
+- 회원 가입 기능 구현  
+- 친구 검색 및 팔로우 기능 구현
+- 워치 UI 구성 및 설계
+

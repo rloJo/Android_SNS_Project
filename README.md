@@ -43,3 +43,16 @@ Firebase를 이용해 사용자의 계정정보 및 피드, 친구관계를 저�
 
 ## 프로젝트 화면
 ---
+<table>
+    <tbody>
+    	<tr>
+        	<th style="text-align: center"><img src="https://github.com/rloJo/BusMonitoringSystem/blob/main/AssetReadMe/BMS1.PNG" style="zoom:80%;" alert = "프로젝트 이미지" /></th>
+            <th style="text-align: center"><img src="https://github.com/rloJo/BusMonitoringSystem/blob/main/AssetReadMe/BMS.PNG"  style="zoom:80%;" alert = "프로젝트 이미지" /></th>
+        </tr>
+      	<tr>
+    </tbody>
+</table>
+
+
+## 역할
+---
